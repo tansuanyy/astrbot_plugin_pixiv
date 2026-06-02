@@ -1,6 +1,6 @@
 # AstrBot Pixiv 综合插件
 
-🌐 Language: **简体中文** | [English](README_EN.md)
+🌐 Language: **简体中文** |[English](docs/README_EN.md)
 
 ---
 基于 [LeiZ API](https://api.bileizhen.top) 开发的多功能 AstrBot 插件，提供 **Pixiv 随机图片获取**、**每日一言**、**天气查询**、**男娘图片获取**、**网易云音乐点歌**、**JMComic 漫画获取** 及 **DG-LAB 设备管理** 等功能。
